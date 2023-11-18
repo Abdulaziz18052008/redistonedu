@@ -6,7 +6,7 @@
 
 
 .header {
-    background-color: aqua;
+    background-color: white;
     display: flex;
     justify-content: end;
 }
@@ -86,7 +86,7 @@
     line-height: 43.2px;
 }
 
-.reg-news{
+.reg-news {
     color: #000;
     text-align: center;
     font-family: "Montserrat", sans-serif;
@@ -94,4 +94,51 @@
     font-style: normal;
     font-weight: 600;
     line-height: 72px;
+}
+
+.img-logo {
+    position: relative;
+    right: 100px;
+}
+
+.logo {
+    padding-top: 20px;
+    position: relative;
+    right: 70px;
+}
+
+.ula-info {
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 31.2px;
+}
+
+.oliy-info {
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 31.2px;
+}
+
+.info-and {
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 31.2px;
+}
+
+.info-buni {
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 31.2px;
 }
