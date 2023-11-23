@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.box{
+   width:  200px;
+   height: 200px;
+   border: 2px solid #000;  
+   border-radius: 10%;
+}
+
+.one{
+    background-color: blueviolet;
+}
+
+.two{
+    background-color: gold;
+}
+
+.three{
+    background-color: silver;
+}

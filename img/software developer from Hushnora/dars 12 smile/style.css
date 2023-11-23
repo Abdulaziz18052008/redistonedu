@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.smile{
+    width: 400px;
+    height: 400px;
+    background-color: gold;
+    border-radius: 50%;
+    position: relative;
+}
+.eye-1{
+    width: 60px;
+    height: 100px;
+    background-color: black;
+    border-radius: 90%;
+    position: absolute;
+    left: 80px;
+    top: 70px;
+}
+.eye-2{
+    width: 60px;
+    height: 100px;
+    background-color: black;
+    border-radius: 90%;
+    position: absolute;
+    left: 250px;
+    top: 70px;
+}
+.mouse{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 170px;
+    left: 100px;
+}
+.nose{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    border-radius: 50%;
+    position: absolute;
+    top: 140px;
+    left: 100px;
+}

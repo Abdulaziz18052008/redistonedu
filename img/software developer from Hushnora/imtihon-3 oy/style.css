@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(226, 27, 216);
+}
+.all{
+    background-color: gold;
+}

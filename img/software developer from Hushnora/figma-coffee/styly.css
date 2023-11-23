@@ -1,0 +1,238 @@
+.hero{
+    width: 100%;
+    height: 90vh;
+    background: url(/img/Bitmap.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 100px;
+}
+.great{
+    color: #FEFCF7;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 72px;
+    margin-bottom: 30px;
+}
+.text{
+    color: #FEFCF7;
+    font-family: "Barlow", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.info{
+    padding-top: 150px;
+    margin-bottom: 50px;
+}
+.button-1{
+    background-color: #0E8784 !important;
+    border: none !important;
+}
+.background{
+    background: linear-gradient(180deg, rgba(254, 252, 247, 0.00) 0%, #FEFCF7 100%);
+}
+.gran{
+    color: #333D4B;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 24px;
+     font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+}
+.planto{
+    color: #333D4B;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+}
+.why{
+    color: aliceblue;
+    color: #FEFCF7;
+    text-align: center;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 48px;
+}
+.large{
+    color: #FEFCF7;
+}
+.best{
+    color: #FEFCF7;
+    text-align: center;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+}
+.bc{
+    border-radius: 8px;
+    background: #0E8784;
+    position: relative;
+    top: 50px;
+}
+.background-1{
+    border-radius: 10px;
+    background: #2C343E;
+}
+.cards{
+    position: relative;
+    top: 100px;
+}
+.coffee{
+    position: relative;
+    left: 120px;
+    bottom: 30px;
+}
+.gift{
+    position: relative;
+    left: 120px;
+    bottom: 30px;
+}
+.furgon{
+    position: relative;
+    left: 120px;
+    bottom: 20px;
+}
+.exclusive{
+    color: #FEFCF7;
+    text-align: center;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+}
+.free{
+    color: #FEFCF7;
+    text-align: center;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+}
+.first-1{
+    border-radius: 8px;
+    background:  #0E8784;
+}
+.first-2{
+    border-radius: 8px;
+    background:  #0E8784;
+}
+.first-3{
+    border-radius: 8px;
+    background: #0E8784;
+}
+.n-1{
+    color: #83888F;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+    padding-bottom: 50px ;
+}
+.nums{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-bottom: 200px;
+}
+
+.oval {
+    width: 731px;   
+    background-image: url("./img/Path\ 2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-bottom: 70px;
+}
+.one{
+    color: #FDD6BA;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 72px;
+}
+.pick{
+    color: #333D4B;
+    font-family: "Fraunces", sans-serif 9pt;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 36px;
+    margin-bottom: 30px
+}
+.dad-nums{
+    margin-bottom: 70px;
+}
+.fot{
+    background-color: #2C343E;
+}
+.house{
+    color: #83888F;
+    font-family: "Barlow", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+}
+.doubt{
+    color: #83888F;
+    font-family: "Barlow", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+}
+.create{
+    color: #83888F;
+    font-family: "Barlow", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+}
+.homm{
+    color: #83888F;
+    font-family: "Barlow", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+}
+.abuot{
+    color: #83888F;
+    font-family: "Barlow", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+}
+.crete{
+    color: #83888F;
+    font-family: "Barlow", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+}

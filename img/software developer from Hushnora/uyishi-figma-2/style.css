@@ -1,0 +1,289 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+.container{
+    width: 1130px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.backgraound{
+    background-color: #eeeff1;
+}
+
+#header{
+    padding: 57px 0;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-list{
+    display: flex;
+    align-items: center;
+    gap: 42px;
+}
+
+.nav-item a{
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight:400;
+    line-height: 164.063%;
+    letter-spacing: 1.6px;
+    transition: all 0.3s ease;
+}
+
+.nav-item a:hover{
+    color: #34547a;
+}
+
+#hero{
+    padding: 90px 0;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
+}
+
+.hero-title{
+    color: #000;
+    font-family: "Roboto" sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 164.063%; 
+    margin-bottom: 60px;
+}
+
+.hero-text{
+    color: #727272;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164.063%;
+    margin-bottom: 60px;
+}
+
+.mt {
+    margin-top: 20px;
+}
+
+.hero-btn{
+    padding: 25px 41px;
+    border: 0;
+    background-color: #34547a;
+    color: #fff;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164.063%;
+    letter-spacing: 1.6px;
+}
+
+.hero1{
+ text-align: center;
+ margin: 8% auto 0;
+ padding: 40px;
+ width: 60%;
+}
+
+.card-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 40px 15%;
+    background-color: #34547a;
+}
+
+.card{
+    background-color: #34547a;
+}
+.list{
+    display: flex;
+    color: #fff;
+}
+
+.container-{
+    display: flex;
+}
+
+.skills{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.line-two{
+    width: 445px;
+    height: 4px;
+    flex-shrink: 0;
+    display: block;
+    background:#c4c4c4;
+    margin-top: 10px;
+}
+
+.line-three{
+    width: 455px;
+    height: 4px;
+    flex-shrink: 0;
+    display: block;
+    background:#c4c4c4;
+    margin-top: 10px;
+}
+
+.onne{
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.twoo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.three{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.father{
+    width: 500px;
+    height: 400px;
+}
+.container-{
+    display: flex;
+}
+
+.skill{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 15%;
+}
+
+.line{
+    position: relative;
+}
+.line div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 75%;
+    height: 100%;
+    background-color: rgb(12, 12, 93);
+}
+.line-one, .line-two, .line-three{
+    width: 445px;
+    height: 4px;
+    flex-shrink: 0;
+    display: block;
+    background:#c4c4c4;
+    margin-top: 10px;
+}
+
+.onne{
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.twoo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.three{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.play-button{
+    width: 1200px;
+    height: 600px;
+}
+.video-button{
+    position: relative;
+    left: 570px;
+    bottom: 350px;
+}
+.video-text{
+    text-align: center;
+    margin: 1% auto 0;
+    padding: 20px;
+    width: 60%;
+}
+.how-i{
+    text-align: center;
+}
+.tm-tb{
+    width: 25%;
+    height: 350px;
+}
+.time-table-2{
+    display: flex;
+}
+.time-table-3{
+    display: flex;
+}
+.laptop{
+    width: 25%;
+    height: 350px;
+}
+.laptop-2{
+    width: 25%;
+    height: 350px;
+}
+.tm-tb-2{
+    width: 25%;
+    height: 350px;
+}
+.tm-tb-3{
+    width: 25%;
+    height: 350px;
+}
+.laptop-3{
+    width: 25%;
+    height: 350px;
+}
+.tm-tb-4{
+    width: 25%;
+    height: 350px;
+}
+.laptop-4{
+    width: 25%;
+    height: 350px;
+}
+.mic{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.information{
+    text-align: center;
+    margin: 8% auto 0;
+    padding: 40px;
+    width: 60%;
+}
+.input{
+    background-color: #c4c4c4;
+}

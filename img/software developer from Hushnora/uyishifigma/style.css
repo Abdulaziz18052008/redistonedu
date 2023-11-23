@@ -1,0 +1,203 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 20px 200px;
+}
+
+header div ul{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+
+#hero .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+ .content{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+}
+.content h1{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Roboto', sans-serif;
+}
+.button{
+    background-color: orange;
+}
+.two{
+    background-color: orange;
+}
+.bloks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1170px;
+    height: 314px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+
+#best .container{
+    display: flex;
+    flex-direction: column;
+}
+
+.container .bloks{
+    padding: 80px 100px;
+    justify-content: space-around;
+}
+.wer{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color: rgb(2, 236, 21);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color: rgb(10, 148, 235);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thir{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color: rgb(235, 96, 10);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.second{
+    text-align: center;
+}
+.rc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.rc2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.cs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.cs2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.fd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.fd2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.offer{
+    text-align: center;
+}
+.desine{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.need{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.smth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.develop{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color: rgb(241, 96, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.web-develop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.there-smth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.application{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.best-service{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+#web-site{
+    display: flex;
+    flex-direction: column;
+}

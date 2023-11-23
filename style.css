@@ -142,3 +142,230 @@
     font-weight: 600;
     line-height: 31.2px;
 }
+
+.cards {
+    gap: 50px;
+}
+
+.section-3 {
+    background-color: rgb(47, 44, 44);
+}
+
+
+
+.fanlar {
+    color: #E84E10;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    padding-top: 30px;
+}
+
+.maj {
+    color: #FFF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28.8px;
+}
+
+.tarix {
+    color: #FFF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28.8px;
+}
+
+.majburiy-1 {
+    padding-top: 30px;
+}
+
+.history {
+    padding-top: 30px;
+}
+
+.fonetika {
+    color: #FFF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28.8px;
+}
+
+.img-nat {
+    width: 100%;
+    height: 100%;
+}
+
+.piramid {
+    width: 100%;
+}
+
+.alish {
+    width: 100%;
+}
+
+.ielts {
+    color: #E84E10;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    padding-top: 30px !important;
+}
+
+.read {
+    color: #FFF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28.8px;
+}
+
+.ielts-read {
+    padding-top: 30px;
+}
+
+.write-ielts {
+    color: #FFF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28.8px;
+}
+
+.write {
+    padding-top: 30px;
+}
+
+.listen {
+    padding-top: 30px;
+}
+
+.ielts-listen {
+    color: #FFF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28.8px;
+}
+
+.online {
+    padding-top: 40px;
+}
+
+.only {
+    display: flex;
+}
+
+.registan-lc {
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px;
+}
+
+.info-reg {
+    color: #000;
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 38px;
+}
+
+.all-page {
+    display: flex;
+}
+
+.section-4 {
+    background-color: rgb(200, 246, 249);
+}
+
+.empty {
+    display: flex;
+    width: 433.33px;
+    height: 426.5px;
+    padding: 214.5px 473.33px 100px 0px;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.about-registan {
+    padding-top: 90px;
+}
+
+.num-1 {
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 104.5px;
+}
+
+.thousand {
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 104.5px;
+}
+
+.plus {
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 104.5px;
+}
+
+
+.branches {
+    display: flex;
+    padding-right: 0px;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+}
+
+.academics {
+    display: flex;
+    padding-right: 0px;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+}
+
+.just {
+    display: flex;
+    padding-right: 0px;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+}
+
+.numbers {
+    display: flex;
+    padding-right: 0px;
+    align-items: flex-start;
+    align-content: flex-start;
+    align-self: stretch;
+    flex-wrap: wrap;
+}
